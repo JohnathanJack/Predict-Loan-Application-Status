@@ -3,7 +3,7 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to utilize a machine learning model to predict if an applicant is likely to get a loan. This model will be deployed into a cloud where other users will be able to create a api post request to get results given they provide the necessary data. 
 
 ## Hypothesis
 (fill in your hypothesis about which subset of applicants will be most likely to have their loan approved, and why. Give some examples of how you will test this hypothesis)
