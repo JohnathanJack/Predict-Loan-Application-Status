@@ -7,7 +7,7 @@ import pandas as pd
 app = Flask(__name__)
 api = Api(app)
 
-class RawFeats:
+class Feats:
     def __init__(self, feats):
         self.feats = feats
     
