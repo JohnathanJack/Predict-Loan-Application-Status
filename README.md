@@ -28,7 +28,7 @@ Around 14% of people do not have a credit history. It is seen that there are lar
 11. Create an api and deploy it to the cloud for anyone to utilize the model. 
 
 ## Results/Demo
-The model performs with ~80% accuracy which is decent for a pre-screening method. The model has poor precision at ~39% for positive results but a good precision for negative results at 97%. An inperson talk with the applicant and more information would be required to ensure the application is actually approved for a loan but if they fail the screening with this model, it is likely they would not be eligble for the loan. 
+The model performs with ~83% accuracy which is decent for a pre-screening method. The model has poor precision at ~46% for positive results but a good precision for negative results at 99%. An inperson talk with the applicant and more information would be required to ensure the application is actually approved for a loan but if they fail the screening with this model, it is likely they would not be eligble for the loan. 
 
 ## Challanges 
 Getting the API to work and return results was a challenge as it involved a lot of debugging and getting it to the right format for Flask. Very hard to feature engineer as there were not enough columns to create new features. 
